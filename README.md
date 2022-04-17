@@ -20,7 +20,6 @@
 <p align="left">
   <p>You can see and download the pdf copy of my latest resume from below (I removed my phone number though) :point_down:</p>
   <li><a href="https://drive.google.com/file/d/1zNyx6oV3hz1OAMqAzETmw0xNGMLanZ10/view?usp=sharing" target="_blank" >Google Drive</a></li>
-[Google Drive]: https://drive.google.com/file/d/1zNyx6oV3hz1OAMqAzETmw0xNGMLanZ10/view?usp=sharing 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
