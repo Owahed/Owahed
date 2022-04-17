@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Owahed Hossain</h1>
 <h3 align="center">Thanks for visiting my profile.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=owahedhossain&label=Profile%20views&color=0e75b6&style=flat" alt="owahedhossain" /> </p>
+
 - 🌱 I’m currently learning **JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/owahed hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="owahed hossain" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/owahed hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="owahed hossain" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/owahed-hossain-877777210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/owahed-hossain-877777210/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18816245/owahed-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18816245/owahed-hossain" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
