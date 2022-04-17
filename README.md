@@ -13,8 +13,6 @@
     <li>GitHub:https://github.com/Owahed</li>
     <li>LinkedIn: https://www.linkedin.com/in/owahed-hossain-877777210/</li>
     <li>Email: owahedhossain@gmail.com</li>
-    
-
     </ul>
 </p>
 
