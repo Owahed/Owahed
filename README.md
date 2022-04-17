@@ -21,7 +21,6 @@
   <p>You can see and download the pdf copy of my latest resume from below (I removed my phone number though) :point_down:</p>
   <ul>
     <li>[Google Drive](https://drive.google.com/file/d/1zNyx6oV3hz1OAMqAzETmw0xNGMLanZ10/view?usp=sharing)</li>
-    
     </ul>
 </p>
 
