@@ -7,8 +7,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/owahed-hossain-877777210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/owahed-hossain-877777210/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18816245/owahed-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18816245/owahed-hossain" height="30" width="40" /></a>
+  <ul>
+    <li>Facebook: https://www.facebook.com/owahedhossain.roky/</li>
+    <li>Blog: https://medium.com/@owahedhossain</li>
+    <li>GitHub:https://github.com/Owahed</li>
+    <li>LinkedIn: https://www.linkedin.com/in/owahed-hossain-877777210/</li>
+    <li>Email: owahedhossain@gmail.com</li>
+    
+
+    </ul>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
