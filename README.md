@@ -11,7 +11,7 @@
     <li>Facebook: https://www.facebook.com/owahedhossain.roky/</li>
     <li>Blog: https://medium.com/@owahedhossain</li>
     <li>GitHub:https://github.com/Owahed</li>
-    <li>LinkedIn: https://www.linkedin.com/in/owahed-hossain-877777210/</li>
+    <li>LinkedIn: https://www.linkedin.com/in/owahed-hossain-4a2b74287/</li>
     <li>Email: owahedhossain@gmail.com</li>
     </ul>
 </p>
