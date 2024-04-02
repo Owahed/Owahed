@@ -11,7 +11,7 @@
     <li>Facebook: https://www.facebook.com/owahedhossain.roky/</li>
     <li>Blog: https://medium.com/@owahedhossain</li>
     <li>GitHub:https://github.com/Owahed</li>
-    <li>LinkedIn: https://www.linkedin.com/in/owahed-hossain-4a2b74287/</li>
+    <li>LinkedIn: [https://www.linkedin.com/in/owahed-hossain-4a2b74287/](https://www.linkedin.com/in/owahed-hossain-roky-107577279/)</li>
     <li>Email: owahedhossain@gmail.com</li>
     </ul>
 </p>
@@ -19,7 +19,7 @@
 <h3 align="left">My CV/Resume:</h3>
 <p align="left">
   <p>You can see and download the pdf copy of my latest resume from below :point_down:</p>
-  <li><a href="https://drive.google.com/file/d/1zNyx6oV3hz1OAMqAzETmw0xNGMLanZ10/view?usp=sharing" target="_blank" >Google Drive</a></li>
+  <li><a href="[https://drive.google.com/file/d/1zNyx6oV3hz1OAMqAzETmw0xNGMLanZ10/view?usp=sharing](https://drive.google.com/file/d/11xvvlYHRbNIHmjPm_D6oG9imYjnRWLLo/view?usp=drive_link)" target="_blank" >Google Drive</a></li>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
